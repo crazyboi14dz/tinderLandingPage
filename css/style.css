@@ -36,7 +36,7 @@ header {
 
 ul {
     margin-left: 11em;
-    /*margin-top: 46px;*/
+    
     list-style-type: none;
 }
 
@@ -90,12 +90,11 @@ ul li a:hover {
 }
 
 #language-log-tin {
-    
     margin-top: -45px;
     align-items: center;
     font-size: 30px;
     font-weight: bold;
-    margin-left: 45em;
+    margin-left: 39em;
 }
 
 #language {
