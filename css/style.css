@@ -90,14 +90,12 @@ ul li a:hover {
 }
 
 #language-log-tin {
-    float: right;
+    
     margin-top: -45px;
-    /* display: flex; */
     align-items: center;
-    /* flex-direction: row; */
     font-size: 30px;
     font-weight: bold;
-    margin-right: -16.5em;
+    margin-left: 45em;
 }
 
 #language {
